@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+@import 'bootstrap';
+
+p {
+	color: red;
+
+}
+
+main {
+	margin-top: 4em;
+}
